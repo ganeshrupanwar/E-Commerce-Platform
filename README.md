@@ -39,7 +39,7 @@ Install All required libraries & packages mentioned in requirement.text file
 Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/PrathameshBamb/Knock_Knock-E-commerce-Project.git
+git clone https://github.com/ganeshrupanwar/E-Commerce-Platform.git
 cd Knock_Knock-E-commerce-Project
 ```
 
