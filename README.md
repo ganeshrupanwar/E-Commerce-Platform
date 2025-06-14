@@ -1,6 +1,6 @@
-# Knock Knock E-commerce Project
+# E-commerce Platform
 
-Welcome to the Knock Knock E-commerce Project repository! This project is a full-featured e-commerce platform designed to offer a seamless shopping experience. It includes functionalities such as product browsing, shopping cart management, user authentication, and secure checkout.
+Welcome to the E-commerce Project repository! This project is a full-featured e-commerce platform designed to offer a seamless shopping experience. It includes functionalities such as product browsing, shopping cart management, user authentication, and secure checkout.
 
 ## Overview
 
